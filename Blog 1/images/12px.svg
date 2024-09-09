@@ -1,0 +1,17 @@
+<svg width="1110" height="347" viewBox="0 0 1110 347" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_1_7083)">
+<rect width="1110" height="347" rx="12" fill="#ECF1F8"/>
+<rect width="1110" height="347" fill="url(#pattern0_1_7083)"/>
+<rect y="210.051" width="1110" height="136.949" fill="#D8D8D8" fill-opacity="0.01"/>
+<rect opacity="0.1" width="1110" height="347" fill="#D8D8D8" fill-opacity="0.01"/>
+</g>
+<defs>
+<pattern id="pattern0_1_7083" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_7083" transform="matrix(1 0 0 3.19885 0 -1.09942)"/>
+</pattern>
+<clipPath id="clip0_1_7083">
+<rect width="1110" height="347" rx="12" fill="white"/>
+</clipPath>
+<image id="image0_1_7083" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAAD5Ip3+AAAADUlEQVQIHWP4//8/AwAI/AL+5gz/qwAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
